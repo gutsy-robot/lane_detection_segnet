@@ -4,9 +4,9 @@ It has scripts that can be used for doing lane segmentation online(by subscribin
 
 Dependencies:
 
-[ICaffe-Segnet](https://github.com/alexgkendall/caffe-segnet "Caffe-Segnet"). Clone this repo, in the same directory where your lane-detection directory is present, and then build it.
+[Caffe-Segnet](https://github.com/alexgkendall/caffe-segnet "Caffe-Segnet"). Clone this repo, in the same directory where your lane-detection directory is present, and then build it.
 
-Download the [I'm an inline-style link with title](https://tinyurl.com/y8un7jdv "weights") and unzip them in the lane_detection directory. 
+Download the [weights](https://tinyurl.com/y8un7jdv "weights") and unzip them in the lane_detection directory. 
 	
 [ROS CvBridge](http://wiki.ros.org/cv_bridge "ROS CvBridge")
 
