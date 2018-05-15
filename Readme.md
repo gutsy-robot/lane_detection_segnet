@@ -4,11 +4,11 @@ It has scripts that can be used for doing lane segmentation online(by subscribin
 
 Dependencies:
 
-	Caffe-Segnet: https://github.com/alexgkendall/caffe-segnet. Clone this repo, in the same directory where your lane-detection directory is present, and then build it.
+	[I'm an inline-style link with title](https://github.com/alexgkendall/caffe-segnet "Caffe-Segnet"). Clone this repo, in the same directory where your lane-detection directory is present, and then build it.
 
-	Download the [weights](https://tinyurl.com/y8un7jdv) and unzip them in the lane_detection directory. 
+	Download the [I'm an inline-style link with title](https://tinyurl.com/y8un7jdv "weights") and unzip them in the lane_detection directory. 
 	
-	[Ros CVBridge](http://wiki.ros.org/cv_bridge)
+	[I'm an inline-style link with title](http://wiki.ros.org/cv_bridge "ROS CvBridge")
 
 
 I would recommend going through the lane_detection.py script for a better understanding of the available functionality.
@@ -22,5 +22,5 @@ The image below will give you a high-level idea about this module works:
 ![Alt text](concept.jpg)
 
 
-This is the link to a demonstration video: https://www.youtube.com/watch?v=zAfO1xEGN_I
+This is the link to a demonstration [I'm an inline-style link with title](https://www.youtube.com/watch?v=zAfO1xEGN_I  "video")
 
